@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "categoryId": 1,
+    "name": "GeForce GTX 1630",
+    "description": "Placa de Video ASUS Phoenix GeForce GTX 1630",
+    "price": 1250,
+    "image": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_36550_Placa_de_Video_ASUS_Phoenix_GeForce_GTX_1630_4GB_GDDR6_b0a0edd2-grn.jpg",
+    "currency": {
+      "symbol": "$",
+      "code": "USD",
+      "name": "US Dollar"
+    },
+    "quantity": 1,
+    "tags": ["gtx", "1630", "4GB", "GDDR6"],
+    "features": [
+      "Velocidad Del Core Base 1740 mhz",
+      "Tipo de memoria GDDR6",
+      "4GB",
+      "interface de memoria 4gb",
+      "Velocidad del core turbo 1815mhz"
+    ],
+    "rating": 5,
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "categoryId": 1,
+    "name": "Radeon RX 1770",
+    "description": "Placa de Video Gigabyte Radeon RX 1770",
+    "price": 1380,
+    "image": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_36450_Placa_de_Video_Gigabyte_Radeon_RX_1770_8GB_GDDR6_6b25d59d-grn.jpg",
+    "currency": {
+      "symbol": "$",
+      "code": "USD",
+      "name": "US Dollar"
+    },
+    "quantity": 1,
+    "tags": ["radeon", "rx", "1770", "8GB", "GDDR6"],
+    "features": [
+      "Velocidad Del Core Base 1650 mhz",
+      "Tipo de memoria GDDR6",
+      "8GB",
+      "interface de memoria 8gb",
+      "Velocidad del core turbo 1725mhz"
+    ],
+    "rating": 4.8,
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "categoryId": 2,
+    "name": "Intel Core i7-12700K",
+    "description": "Procesador Intel Core i7-12700K",
+    "price": 389,
+    "image": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_36556_Procesador_Intel_Core_i7-12700K_4.90GHz_19.25MB_LGA_1634817426_grn.jpg",
+    "currency": {
+      "symbol": "$",
+      "code": "USD",
+      "name": "US Dollar"
+    },
+    "quantity": 1,
+    "tags": ["intel", "core i7", "12700K"],
+    "features": [
+      "Frecuencia base 3.80GHz",
+      "Frecuencia turbo 4.90GHz",
+      "Número de núcleos 12",
+      "Número de hilos 20",
+      "Caché 19.25MB"
+    ],
+    "rating": 4.9,
+    "stock": 5
+  },
+  {
+    "id": 4,
+    "categoryId": 2,
+    "name": "AMD Ryzen 7 5800X",
+    "description": "Procesador AMD Ryzen 7 5800X",
+    "price": 419,
+    "image": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_35506_Procesador_AMD_Ryzen_7_5800X_4.70GHz_36MB_Socket_AM4_1593460190_grn.jpg",
+    "currency": {
+      "symbol": "$",
+      "code": "USD",
+      "name": "US Dollar"
+    },
+    "quantity": 1,
+    "tags": ["amd", "ryzen 7", "5800X"],
+    "features": [
+      "Frecuencia base 3.80GHz",
+      "Frecuencia turbo 4.70GHz",
+      "Número de núcleos 8",
+      "Número de hilos 16",
+      "Caché 36MB"
+    ],
+    "rating": 4.7,
+    "stock": 7
+  },
+  {
+    "id": 5,
+    "categoryId": 3,
+    "name": "MSI B550 Gaming Plus",
+    "description": "Placa Madre MSI B550 Gaming Plus",
+    "price": 189,
+    "image": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_35706_Placa_Madre_MSI_B550_Gaming_Plus_AMD_AM4_1633471946_grn.jpg",
+    "currency": {
+      "symbol": "$",
+      "code": "USD",
+      "name": "US Dollar"
+    },
+    "quantity": 1,
+    "tags": ["msi", "b550", "gaming plus"],
+    "features": [
+      "Socket AM4",
+      "Compatible con AMD Ryzen",
+      "PCIe 4.0",
+      "2 x M.2",
+      "USB 3.2 Gen 2"
+    ],
+    "rating": 4.5,
+    "stock": 12
+  },
+  {
+    "id": 6,
+    "categoryId": 3,
+    "name": "ASUS ROG Strix Z590-E",
+    "description": "Placa Madre ASUS ROG Strix Z590-E",
+    "price": 299,
+    "image": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_35530_Placa_Madre_ASUS_ROG_Strix_Z590-E_Gaming_Wi-Fi_Intel_LGA_1200_1632796515_grn.jpg",
+    "currency": {
+      "symbol": "$",
+      "code": "USD",
+      "name": "US Dollar"
+    },
+    "quantity": 1,
+    "tags": ["asus", "rog strix", "z590-e"],
+    "features": [
+      "Socket LGA 1200",
+      "Compatible con procesadores Intel",
+      "PCIe 4.0",
+      "Wi-Fi 6",
+      "Bluetooth 5.2"
+    ],
+    "rating": 4.8,
+    "stock": 9
+  },
+  {
+    "id": 7,
+    "categoryId": 4,
+    "name": "Corsair Vengeance RGB Pro",
+    "description": "Memoria RAM Corsair Vengeance RGB Pro 16GB",
+    "price": 129,
+    "image": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_36509_Memoria_RAM_Corsair_Vengeance_RGB_Pro_16GB_DDR4_3200MHz_1599078283_grn.jpg",
+    "currency": {
+      "symbol": "$",
+      "code": "USD",
+      "name": "US Dollar"
+    },
+    "quantity": 1,
+    "tags": ["corsair", "vengeance", "rgb pro", "16GB", "DDR4"],
+    "features": [
+      "Capacidad 16GB",
+      "Tipo de memoria DDR4",
+      "Velocidad 3200MHz",
+      "Iluminación RGB",
+      "Perfil de rendimiento XMP 2.0"
+    ],
+    "rating": 4.6,
+    "stock": 15
+  },
+  {
+    "id": 8,
+    "categoryId": 4,
+    "name": "G.SKILL Ripjaws V",
+    "description": "Memoria RAM G.SKILL Ripjaws V 32GB",
+    "price": 189,
+    "image": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_34269_Memoria_RAM_G.SKILL_Ripjaws_V_32GB_DDR4_3600MHz_1608650687_grn.jpg",
+    "currency": {
+      "symbol": "$",
+      "code": "USD",
+      "name": "US Dollar"
+    },
+    "quantity": 1,
+    "tags": ["g.skill", "ripjaws v", "32GB", "DDR4"],
+    "features": [
+      "Capacidad 32GB",
+      "Tipo de memoria DDR4",
+      "Velocidad 3600MHz",
+      "Disipador de calor",
+      "Optimizado para plataformas Intel"
+    ],
+    "rating": 4.9,
+    "stock": 6
+  }
+]

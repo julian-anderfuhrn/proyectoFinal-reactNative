@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Placas de video",
+        "backgroundColor": "#6D6AA0",
+        "backgroundImage": "https://ar-media.hptiendaenlinea.com/magefan_blog/Guia_de_compra_para_GPU_Como_escoger_la_placa_de_video_indicada_1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "procesadores",
+        "backgroundColor": "#3EC2CC",
+        "backgroundImage": "https://acf.geeknetic.es/imgri/imagenes/auto/2022/1/4/fbq-intel-lanza-22-nuevos-procesadores-alder-lake-para-equipos-de-escritorio-desde-los-489-dolares.jpg?f=webp"
+    },
+    {
+        "id": 3,
+        "name": "Placas madres",
+        "backgroundColor": "#0DAB6C",
+        "backgroundImage": "https://www.asus.com/media/odin/websites/MX/News/egeudlmmzdyg3wv1/890e5811-aa33-c629-08eb-a9892ebefa13.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Memorias ram",
+        "backgroundColor": "#EC5B67",
+        "backgroundImage": "https://http2.mlstatic.com/D_NQ_NP_720914-MLA31007937241_062019-O.webp"
+    }
+]
