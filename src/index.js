@@ -1,16 +1,12 @@
 import { useFonts } from "expo-font";
 import { useEffect } from "react";
+import { init } from "./db";
 import { StyleSheet, View, ActivityIndicator } from "react-native";
 import { Provider } from "react-redux";
-import * as SQLite from "expo-sqlite";
 
-import { init } from "./db";
 import RootNavigator from "./navigations";
 import { store } from "./store";
 import { FONTS, COLORS } from "./themes";
-import { setUser } from "./store/auth/auth.slice";
-
-const db = SQLite.openDatabase("sessions.db");
 
 export default function App() {
   useEffect(() => {
